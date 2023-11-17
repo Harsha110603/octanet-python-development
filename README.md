@@ -13,5 +13,5 @@ It consists features such as
 <br>
 5.Check Balance
 <br>
-6.Quit
+6.Exit
 <br>
